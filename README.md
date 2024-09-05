@@ -1,3 +1,5 @@
+Just testing out some stuff with Bazel vs. CMake in CLion
+
 One-liner with CMake (intentionally not using CTest):
 
 ```
